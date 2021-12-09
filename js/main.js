@@ -12,7 +12,7 @@ closeButton.addEventListener('click', function(){
 
 
 
-// FAQ
+// FAQ section js
 
 elsqaItem = document.querySelectorAll('.faq-list__item');
 elsqaToggler = document.querySelectorAll('.faq-list__item__btn');
@@ -23,11 +23,12 @@ elsqaToggler.forEach(function (toggler) {
   })
 })
 
-/*
+// Hamburger code
+
 const elHamburger = document.querySelector('.header__menu-button')
 const elHeader  =  document.querySelector('.header')
 
-elHamburger.addEventListener('click', () =>) {
+elHamburger.addEventListener('click', () => {
+    console.log("Pressed");
     elHeader.classList.toggle ('header--active')
-}
-*/
+})
