@@ -2718,10 +2718,5 @@ img {
     
   }
   
-  .work-info__desc, .work-info__link, .about, .service-item-area, .service, 
-  .subscribe, .useful, .communication, .header-top__address, .header-top__list-tel{
-    display: none;
-  }
-  
   
 }
