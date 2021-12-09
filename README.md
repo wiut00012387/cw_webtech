@@ -7,4 +7,4 @@ Firstly, when the link for the website is clicked, the user encounters the Main 
 Links:
 - https://00012387.netlify.app
 
-- https://github.com/wiut00012387/cw_webtech
+- https://github.com/wiut00012387/cw_webtech.git
